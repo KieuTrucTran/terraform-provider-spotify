@@ -3,3 +3,6 @@
 
 # env file
 .env
+
+# Terraform files
+terraform/terraform.tfvars
