@@ -24,7 +24,7 @@ variable "playlist_public" {
 variable "playlist_time_range" {
   type        = string
   description = "Time range for top tracks (short_term, medium_term, long_term)"
-  default     = "long_term"
+  default     = "short_term"
 }
 
 variable "playlist_track_count" {
